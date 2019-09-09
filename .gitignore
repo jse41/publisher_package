@@ -1,0 +1,3 @@
+*~	 # anything that ends in a ~ 
+\#*# 	# Anything that begins and ends with a hash 
+*.bak 	# Any backup files that end in ".bak" 
